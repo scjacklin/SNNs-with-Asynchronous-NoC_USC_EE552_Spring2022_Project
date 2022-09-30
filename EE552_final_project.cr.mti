@@ -1,0 +1,593 @@
+C:/Modelsim_projects/EE552_project/MEM__4Q7_mod.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/MEM__4Q7_mod.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package MEM__4Q7_mod_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MEM__4Q7_mod
+
+Top level modules:
+	MEM__4Q7_mod
+
+} {} {}} C:/Modelsim_projects/EE552_project/arbiter_merge.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/arbiter_merge.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package arbiter_merge_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module arbiter
+-- Compiling module merge
+-- Compiling module arbitrated_merge
+
+Top level modules:
+	arbitrated_merge
+
+} {} {}} C:/Modelsim_projects/EE552_project/PE_block_tb_project_iteration.sv {2 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/PE_block_tb_project_iteration.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Warning: C:/Modelsim_projects/EE552_project/PE_block_tb_project_iteration.sv(145): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling package PE_block_tb_project_iteration_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_tb_Packet_generator
+** Warning: C:/Modelsim_projects/EE552_project/PE_block_tb_project_iteration.sv(145): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module MOD_tb_Packet_bucket
+-- Compiling module testbench_PE_block
+
+Top level modules:
+	testbench_PE_block
+
+} {} {}} C:/Modelsim_projects/EE552_project/ADDER_tb_project_iteration.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/ADDER_tb_project_iteration.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package ADDER_tb_project_iteration_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_tb_Packet_generator_4_ADDER
+-- Compiling module MOD_tb_Packet_bucket_4_ADDER
+-- Compiling module testbench_ADDER_block
+
+Top level modules:
+	testbench_ADDER_block
+
+} {} {}} C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv {2 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(99): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(122): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(145): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(147): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(151): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(153): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(155): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(155): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(156): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(156): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(243): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(244): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(264): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(266): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling package sample_memory_wrapper_jack_v3_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module sample_memory_wrapper_scjack_v3
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(99): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(122): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(145): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(147): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(151): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(153): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(155): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(155): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(156): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(156): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(243): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(244): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(264): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v3.sv(266): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+
+Top level modules:
+	sample_memory_wrapper_scjack_v3
+
+} {} {}} C:/Modelsim_projects/EE552_project/ADDER_block.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/ADDER_block.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package ADDER_block_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_ADDER_buffer
+-- Compiling module MOD_ADDER_block
+
+Top level modules:
+	MOD_ADDER_block
+
+} {} {}} C:/Modelsim_projects/EE552_project/Accumulator_mod_4Q7.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Accumulator_mod_4Q7.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Accumulator_mod_4Q7_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module Accumulator_mod_4Q7
+
+Top level modules:
+	Accumulator_mod_4Q7
+
+} {} {}} C:/Modelsim_projects/EE552_project/memory_block.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/memory_block.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package memory_block_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_memory_block
+
+Top level modules:
+	MOD_memory_block
+
+} {} {}} C:/Modelsim_projects/EE552_project/Control_4Q7_mod.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Control_4Q7_mod.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Control_4Q7_mod_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module Control_4Q7_mod
+
+Top level modules:
+	Control_4Q7_mod
+
+} {} {}} C:/Modelsim_projects/EE552_project/Adder_W_Sel_4Q7mod.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Adder_W_Sel_4Q7mod.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Adder_W_Sel_4Q7mod_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module Adder_W_Sel_4Q7mod
+
+Top level modules:
+	Adder_W_Sel_4Q7mod
+
+} {} {}} C:/Modelsim_projects/EE552_project/PE_v2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/PE_v2.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package PE_v2_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_pe_v2
+
+Top level modules:
+	MOD_pe_v2
+
+} {} {}} C:/Modelsim_projects/EE552_project/Decoder_ADDER.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Decoder_ADDER.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Decoder_ADDER_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_Decoder_ADDER
+-- Compiling module MOD_Decoder_ADDER_v2
+
+Top level modules:
+	MOD_Decoder_ADDER
+	MOD_Decoder_ADDER_v2
+
+} {} {}} C:/Modelsim_projects/EE552_project/memory_test_module.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/memory_test_module.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package memory_test_module_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_MEM_Adder_test
+-- Compiling module MOD_MEM_NoC_bucket
+
+Top level modules:
+	MOD_MEM_Adder_test
+	MOD_MEM_NoC_bucket
+
+} {} {}} C:/Modelsim_projects/EE552_project/MEM_.sv {2 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/MEM_.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Warning: C:/Modelsim_projects/EE552_project/MEM_.sv(55): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling package MEM__sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_MEM_PE
+** Warning: C:/Modelsim_projects/EE552_project/MEM_.sv(55): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+
+Top level modules:
+	MOD_MEM_PE
+
+} {} {}} C:/Modelsim_projects/EE552_project/pe_tb_project_iteration.sv {2 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/pe_tb_project_iteration.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Warning: C:/Modelsim_projects/EE552_project/pe_tb_project_iteration.sv(91): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling package pe_tb_project_iteration_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_pe_tb_frame
+** Warning: C:/Modelsim_projects/EE552_project/pe_tb_project_iteration.sv(91): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Modelsim_projects/EE552_project/Mulit_4Q7mod.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Mulit_4Q7mod.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Mulit_4Q7mod_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module Mulit_4Q7mod
+
+Top level modules:
+	Mulit_4Q7mod
+
+} {} {}} C:/Modelsim_projects/EE552_project/Encoder_ADDER.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Encoder_ADDER.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Encoder_ADDER_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_Encoder_ADDER
+
+Top level modules:
+	MOD_Encoder_ADDER
+
+} {} {}} C:/Modelsim_projects/EE552_project/pe_tb_project.sv {2 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/pe_tb_project.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Warning: C:/Modelsim_projects/EE552_project/pe_tb_project.sv(99): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling package pe_tb_project_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_pe_tb_frame
+** Warning: C:/Modelsim_projects/EE552_project/pe_tb_project.sv(99): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Modelsim_projects/EE552_project/memory.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/memory.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package memory_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Modelsim_projects/EE552_project/Encoder_tb_project_iteration.sv {2 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Encoder_tb_project_iteration.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Warning: C:/Modelsim_projects/EE552_project/Encoder_tb_project_iteration.sv(173): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling package Encoder_tb_project_iteration_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_encoder_tb
+** Warning: C:/Modelsim_projects/EE552_project/Encoder_tb_project_iteration.sv(173): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module testbench_encoder_PE
+
+Top level modules:
+	testbench_encoder_PE
+
+} {} {}} C:/Modelsim_projects/EE552_project/Decoder_PE.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Decoder_PE.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Decoder_PE_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_Decoder_PE
+-- Compiling module MOD_Decoder_PE_v2
+-- Compiling module MOD_Decoder_PE_v4
+
+Top level modules:
+	MOD_Decoder_PE
+	MOD_Decoder_PE_v2
+	MOD_Decoder_PE_v4
+
+} {} {}} C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv {2 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(102): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(125): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(148): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(150): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(154): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(156): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(158): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(158): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(159): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(159): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(202): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(223): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(225): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(229): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(320): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(321): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(341): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(343): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(490): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(513): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(536): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(538): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(542): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(544): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(546): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(546): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(547): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(547): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(602): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(623): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(625): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(642): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(733): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(734): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(754): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(756): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(919): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(942): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(965): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(967): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(971): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(973): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(975): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(975): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(976): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(976): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1031): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1052): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1054): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1071): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1163): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1164): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1184): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1186): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1355): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1378): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1401): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1403): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1407): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1409): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1411): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1411): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1412): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1412): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1467): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1488): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1490): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1507): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1611): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1612): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1632): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1634): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1805): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1828): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1851): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1853): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1857): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1859): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1861): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1861): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1862): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1862): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1926): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1934): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1936): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1939): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2047): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2055): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2057): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2060): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2104): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2105): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2125): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2127): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2369): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2392): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2415): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2417): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2421): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2423): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2425): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2425): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2426): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2426): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2481): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2502): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2504): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2521): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2559): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2560): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2580): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2582): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling package sample_memory_wrapper_jack_v4_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module sample_memory_wrapper_scjack_v4
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(102): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(125): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(148): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(150): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(154): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(156): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(158): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(158): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(159): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(159): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(202): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(223): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(225): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(229): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(320): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(321): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(341): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(343): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module sample_memory_wrapper_scjack_v5
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(490): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(513): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(536): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(538): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(542): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(544): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(546): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(546): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(547): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(547): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(602): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(623): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(625): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(642): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(733): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(734): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(754): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(756): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module sample_memory_wrapper_scjack_v6
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(919): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(942): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(965): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(967): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(971): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(973): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(975): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(975): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(976): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(976): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1031): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1052): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1054): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1071): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1163): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1164): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1184): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1186): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module sample_memory_wrapper_scjack_v7
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1355): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1378): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1401): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1403): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1407): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1409): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1411): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1411): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1412): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1412): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1467): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1488): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1490): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1507): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1611): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1612): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1632): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1634): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module sample_memory_wrapper_scjack_v8
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1805): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1828): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1851): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1853): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1857): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1859): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1861): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1861): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1862): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1862): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1926): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1934): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1936): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(1939): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2047): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2055): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2057): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2060): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2104): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2105): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2125): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2127): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module sample_memory_wrapper_scjack_v9
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2369): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2392): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2415): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2417): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2421): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2423): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2425): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2425): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2426): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2426): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2481): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2502): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2504): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2521): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2559): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2560): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2580): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+** Warning: C:/Modelsim_projects/EE552_project/sample_memory_wrapper_jack_v4.sv(2582): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+
+Top level modules:
+	sample_memory_wrapper_scjack_v4
+	sample_memory_wrapper_scjack_v5
+	sample_memory_wrapper_scjack_v6
+	sample_memory_wrapper_scjack_v7
+	sample_memory_wrapper_scjack_v8
+	sample_memory_wrapper_scjack_v9
+
+} {} {}} C:/Modelsim_projects/EE552_project/SystemVerilogCSP.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/SystemVerilogCSP.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package SystemVerilogCSP
+-- Compiling package SystemVerilogCSP_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling interface Channel
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Modelsim_projects/EE552_project/Split_mod.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Split_mod.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Split_mod_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module Split_mod
+
+Top level modules:
+	Split_mod
+
+} {} {}} C:/Modelsim_projects/EE552_project/Adder_Psum.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Adder_Psum.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Adder_Psum_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_Adder_Psum
+
+Top level modules:
+	MOD_Adder_Psum
+
+} {} {}} C:/Modelsim_projects/EE552_project/Encoder_PE.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Encoder_PE.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Encoder_PE_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_Encoder_PE
+-- Compiling module MOD_Encoder_PE_v2
+-- Compiling module MOD_Encoder_PE_v4
+-- Compiling module MOD_Encoder_PE_v5
+-- Compiling module MOD_Encoder_PE_v6
+
+Top level modules:
+	MOD_Encoder_PE
+	MOD_Encoder_PE_v2
+	MOD_Encoder_PE_v4
+	MOD_Encoder_PE_v5
+	MOD_Encoder_PE_v6
+
+} {} {}} C:/Modelsim_projects/EE552_project/NoC_TB.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/NoC_TB.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package NoC_TB_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module testbench_NoC
+
+Top level modules:
+	testbench_NoC
+
+} {} {}} C:/Modelsim_projects/EE552_project/Control_PE.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Control_PE.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package Control_PE_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_Control_PE
+
+Top level modules:
+	MOD_Control_PE
+
+} {} {}} C:/Modelsim_projects/EE552_project/Encoder_Decoder_tb_project_iteration.sv {2 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/Encoder_Decoder_tb_project_iteration.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Warning: C:/Modelsim_projects/EE552_project/Encoder_Decoder_tb_project_iteration.sv(153): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling package Encoder_Decoder_tb_project_iteration_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_decoder_tb
+** Warning: C:/Modelsim_projects/EE552_project/Encoder_Decoder_tb_project_iteration.sv(153): (vlog-2609) indexed range expression contains whitespace between '+' and ':'.
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Modelsim_projects/EE552_project/memory_tester.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/memory_tester.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package memory_tester_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module memory_tester
+
+Top level modules:
+	memory_tester
+
+} {} {}} C:/Modelsim_projects/EE552_project/noc_tree.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/noc_tree.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package noc_tree_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module switch
+-- Compiling module router
+-- Compiling module noc_tree
+
+Top level modules:
+	noc_tree
+
+} {} {}} C:/Modelsim_projects/EE552_project/PE_block.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_project/PE_block.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling package PE_block_sv_unit
+-- Importing package SystemVerilogCSP
+-- Compiling module MOD_PE_block
+
+Top level modules:
+	MOD_PE_block
+
+} {} {}}
